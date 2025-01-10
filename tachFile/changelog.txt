@@ -1,0 +1,5 @@
+- Thêm các msg báo cáo kết quả làm việc.
+- Thống nhất cách chọn item (số thứ tự hay tên) thành chọn bang tên. Sửa cơ chế chọn món ở thanhToan() để phù hợp.
+- Lập cột cho các phần in thông tin.
+- Thay đổi điều kiện khách là một thành có số điện thoại như nhau.
+- Sửa bug với các hàm tìm kiếm.
